@@ -7,3 +7,23 @@ sd
 s
 ds
 d
+<<<<<<< HEAD
+=======
+sd
+sd
+s
+ds
+d
+sd
+sd
+s
+d
+sd
+sd
+sd
+s
+d
+sds
+s
+ds
+d
